@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">EvidenciaFinalv5</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="btn_Agregar">Agregar Producto</string>
+    <string name="btn_Editar">Editar Producto</string>
+    <string name="btn_Eliminar">Eliminar Producto</string>
+    <string name="btn_Buscar">Buscar Producto</string>
+    <string name="txt_numero">Numero Producto</string>
+    <string name="txt_nombre">Nombre Producto</string>
+    <string name="txt_existencia">Existencia Producto</string>
+
+    <string name="btn_Agregar2">Agregar Empleado</string>
+    <string name="btn_Editar2">Editar Empleado</string>
+    <string name="btn_Eliminar2">Eliminar Empleado</string>
+    <string name="btn_Buscar2">Buscar Empleado</string>
+    <string name="txt_nombre2">Nombre Empleado</string>
+    <string name="txt_salario">Salario Empleado</string>
+    <string name="txt_id">Id Empleado</string>
+
+
+
+
+</resources>
